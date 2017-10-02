@@ -1,0 +1,1039 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="663" height="901" style="background-color:rgb(255, 255, 255)">
+  <g transform="translate(.5 .5)">
+    <switch transform="translate(30.5 10.5)">
+      <foreignObject pointer-events="all" width="108" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 108px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <font style="font-size: 21px">
+              Сбои АТА-приводов
+            </font>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="54" y="30" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M260 40h-77v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M183 58.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(241.5 24.5)">
+      <foreignObject pointer-events="all" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M360 40h50v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M410 58.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(363.5 24.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M310 0l50 40-50 40-50-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(270.5 19.5)">
+      <foreignObject pointer-events="all" width="78" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 78px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            BIOS опознаёт диск?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="39" y="26" text-anchor="middle" font-size="12" font-family="Helvetica">
+        BIOS опознаёт диск?
+      </text>
+    </switch>
+    <path d="M140 95H65v8.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M65 108.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(113.5 79.5)">
+      <foreignObject pointer-events="all" width="15" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="8" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M225 95h48v18.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M273 118.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(235.5 79.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M182.5 60L225 95l-42.5 35L140 95z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(166.5 88.5)">
+      <foreignObject pointer-events="all" width="31" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 33px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            SSD?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="16" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        SSD?
+      </text>
+    </switch>
+    <path d="M110 150h90v33.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M200 188.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(119.5 134.5)">
+      <foreignObject pointer-events="all" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M65 190v28.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M65 223.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(72.5 189.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M65 110l45 40-45 40-45-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(46.5 143.5)">
+      <foreignObject pointer-events="all" width="36" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 36px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            PATA?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="18" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        PATA?
+      </text>
+    </switch>
+    <path d="M200 270v20h80v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M280 308.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(208.5 274.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M155 230h-19v233.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M136 468.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(130.5 209.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M200 190l45 40-45 40-45-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(181.5 223.5)">
+      <foreignObject pointer-events="all" width="36" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 38px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            SATA?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="18" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        SATA?
+      </text>
+    </switch>
+    <path d="M460 100h35v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M495 118.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(465.5 84.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M410 140v20h1l-.18 3.64" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M410.56 168.88l-3.15-7.16 3.41 1.92 3.58-1.57z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(422.5 141.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M410 60l50 40-50 40-50-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(367.5 86.5)">
+      <foreignObject pointer-events="all" width="84" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 84px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Ошибка S.M.A.R.T.?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="42" y="19" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Ошибка S.M.A.R.T.?
+      </text>
+    </switch>
+    <path d="M495 200v23.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M495 228.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(500.5 204.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M540 160h60v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M600 178.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(552.5 144.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M495 120l45 40-45 40-45-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(454.5 146.5)">
+      <foreignObject pointer-events="all" width="80" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Привод CD или DVD?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="40" y="19" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Привод CD или DVD?
+      </text>
+    </switch>
+    <path d="M450 270h-36v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M414 288.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(432.5 254.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M540 270h63v128.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M603 403.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(545.5 274.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M495 230l45 40-45 40-45-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(478.5 263.5)">
+      <foreignObject pointer-events="all" width="32" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            SSD?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="16" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        SSD?
+      </text>
+    </switch>
+    <path d="M461 330h46v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M507 348.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(461.5 314.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M414 370v253.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M414 628.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(424.5 364.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M414 290l47 40-47 40-47-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(368.5 316.5)">
+      <foreignObject pointer-events="all" width="90" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 90px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Прошивка свежая?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="45" y="19" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Прошивка свежая?
+      </text>
+    </switch>
+    <ellipse cx="507" cy="385" rx="65" ry="35" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(443.5 357.5)">
+      <foreignObject pointer-events="all" width="126" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 126px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Используйте загрузочную флешку чтобы обновить прошивку
+          </div>
+        </div>
+      </foreignObject>
+      <text x="63" y="33" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="345" cy="590" rx="65" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(286.5 560.5)">
+      <foreignObject pointer-events="all" width="116" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <font style="font-size: 10px">
+              Посмотрите, не вылезает ли коннектор с какой-нибудь из сторон, протестируйте кабель
+            </font>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="58" y="33" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="268" cy="505" rx="67.5" ry="45" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(203.5 470.5)">
+      <foreignObject pointer-events="all" width="127" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 127px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            BIOS на старых материнках может не опознавать SATA, даже если кабель воткнут
+          </div>
+        </div>
+      </foreignObject>
+      <text x="64" y="40" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="508" cy="610" rx="72.5" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(448.5 586.5)">
+      <foreignObject pointer-events="all" width="117" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Диск не может найти загрузочный сектор или поверхность повреждена
+          </div>
+        </div>
+      </foreignObject>
+      <text x="59" y="33" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="65" cy="335" rx="65" ry="110" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(7.5 258.5)">
+      <foreignObject pointer-events="all" width="114" height="152" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Проверьте настройки КМОП, драйвера ОС.
+            <div>
+              Для USB SSD смотрите блок-схему по периферии, PCI-e SSD - блок-схема по материнке, SCSI - смотрите блок-схему по SCSI
+            </div>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="57" y="82" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M350 480v35h-5v28.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M345 548.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(354.5 484.5)">
+      <foreignObject pointer-events="all" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M295 435h-27v18.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M268 458.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(272.5 413.5)">
+      <foreignObject pointer-events="all" width="15" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="8" y="12" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M350 390l55 45-55 45-55-45z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(303.5 417.5)">
+      <foreignObject pointer-events="all" width="92" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 92px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Коннекторы подсоединены хорошо?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="46" y="26" text-anchor="middle" font-size="12" font-family="Helvetica">
+        Коннекторы подсоединены хорошо?
+      </text>
+    </switch>
+    <path d="M290 730h110v68.75L345 840l-55-41.25z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(291.5 737.5)">
+      <foreignObject pointer-events="all" width="106" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Переходите к блок-схеме проблем быстродействия и загрузки ОС
+          </div>
+        </div>
+      </foreignObject>
+      <text x="53" y="40" text-anchor="middle" font-size="12" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="411" cy="205" rx="58.5" ry="35" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(355.5 186.5)">
+      <foreignObject pointer-events="all" width="109" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 109px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Смело бекапьте ваши данные, скоро вашему диску 3,14
+          </div>
+        </div>
+      </foreignObject>
+      <text x="55" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M560 180h80v50l-40 30-40-30z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(561.5 187.5)">
+      <foreignObject pointer-events="all" width="76" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Переходите к блок-схеме сбоев DVD/CD
+          </div>
+        </div>
+      </foreignObject>
+      <text x="38" y="31" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M369 670h-24v53.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M345 728.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(352.5 654.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M414 710v20h54v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M468 748.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(425.5 714.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M413.5 630l44.5 40-44.5 40-44.5-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(378.5 655.5)">
+      <foreignObject pointer-events="all" width="69" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 69px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Утилита в ОС видит диск?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="35" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Утилита в ОС видит диск?
+      </text>
+    </switch>
+    <ellipse cx="468" cy="820" rx="67.5" ry="70" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(404.5 768.5)">
+      <foreignObject pointer-events="all" width="125" height="102" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 125px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Оставьте диск единственным в системе.
+            <br/>
+            Если после этого менеджер дисков или FDISK не увидит диск, то MBR может быть поломана вирусом
+          </div>
+        </div>
+      </foreignObject>
+      <text x="63" y="57" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="200" cy="420" rx="60" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(144.5 388.5)">
+      <foreignObject pointer-events="all" width="110" height="63" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 110px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Проверьте перемычку на диске, переставьте на режим пониженной скорости
+          </div>
+        </div>
+      </foreignObject>
+      <text x="55" y="37" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M320 350h30v33.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M350 388.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(321.5 334.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M240 350h-40v23.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M200 378.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(212.5 334.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M280 310l40 40-40 40-40-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(241.5 337.5)">
+      <foreignObject pointer-events="all" width="76" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            SATA2 или SATA3?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="38" y="18" text-anchor="middle" font-size="11" font-family="Helvetica">
+        SATA2 или SATA3?
+      </text>
+    </switch>
+    <ellipse cx="602" cy="790" rx="60" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(543.5 764.5)">
+      <foreignObject pointer-events="all" width="116" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            PATA-дискам требуются 80 пиновые кабели, проверьте режим в КМОП
+          </div>
+        </div>
+      </foreignObject>
+      <text x="58" y="31" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M602 720v23.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M602 748.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(612.5 724.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M542 670h-77.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M459.12 670l7-3.5-1.75 3.5 1.75 3.5z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(524.5 674.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M602 620l60 50-60 50-60-50z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(556.5 655.5)">
+      <foreignObject pointer-events="all" width="90" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 90px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Режим, скорость передачи корректны?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="45" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Режим, скорость передачи корректны?
+      </text>
+    </switch>
+    <path d="M603 595h-1v18.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M602 618.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(612.5 591.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M545 550h-37v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M508 568.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(532.5 534.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M602.5 505l57.5 45-57.5 45-57.5-45z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(555.5 531.5)">
+      <foreignObject pointer-events="all" width="93" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 93px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Щелчки не прекращаются?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="47" y="18" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Щелчки не прекращаются?
+      </text>
+    </switch>
+    <path d="M603 485v13.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M603 503.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(611.5 484.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M545 445h-42v3.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M503 453.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(527.5 429.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M602.5 405l57.5 40-57.5 40-57.5-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(554.5 418.5)">
+      <foreignObject pointer-events="all" width="97" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 97px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <font style="font-size: 10px">
+              Диск раскручивается, останавливается?
+            </font>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="49" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="90" cy="850" rx="90" ry="50" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(7.5 818.5)">
+      <foreignObject pointer-events="all" width="164" height="76" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 164px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Замените кабель IDE. Если BIOS всё ещё не может обнаружить диск, тогда или контроллер материнки или диск сломались, либо не совместимы
+          </div>
+        </div>
+      </foreignObject>
+      <text x="82" y="44" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M150 768H90v25.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M90 798.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(127.5 754.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M235 768h25v40.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M260 813.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(240.5 749.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M192.5 725l42.5 42.5-42.5 42.5-42.5-42.5z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(160.5 761.5)">
+      <foreignObject pointer-events="all" width="63" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 63px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Шлейф IDE
+          </div>
+        </div>
+      </foreignObject>
+      <text x="32" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Шлейф IDE&amp;nbsp;
+      </text>
+    </switch>
+    <path d="M183 510h10v28.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M193 543.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(173.5 520.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M88 510H65v27.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M65 542.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(62.5 494.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M135.5 470l47.5 40-47.5 40L88 510z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(98.5 497.5)">
+      <foreignObject pointer-events="all" width="73" height="24" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Выставляли Master/Slave?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="37" y="18" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Выставляли Master/Slave?
+      </text>
+    </switch>
+    <path d="M193 625v93.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M193 723.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(173.5 629.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M240 585h28v33.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M268 623.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(245.5 569.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M192.5 545l47.5 40-47.5 40-47.5-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(152.5 567.5)">
+      <foreignObject pointer-events="all" width="79" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 79px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Шлейфы встали, новые?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="40" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Шлейфы встали, новые?
+      </text>
+    </switch>
+    <path d="M273 210v20h-21.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M246.12 230l7-3.5-1.75 3.5 1.75 3.5z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(277.5 209.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M330 165h15v68.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M345 238.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(335.5 144.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M272.5 120l57.5 45-57.5 45-57.5-45z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(226.5 137.5)">
+      <foreignObject pointer-events="all" width="91" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 91px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <font style="font-size: 10px">
+              Диск
+            </font>
+            <div>
+              <font style="font-size: 10px">
+                обнаруживается, пытается раскрутиться?
+              </font>
+            </div>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="46" y="28" text-anchor="middle" font-size="10" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="345" cy="273" rx="59.5" ry="32.5" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(286.5 247.5)">
+      <foreignObject pointer-events="all" width="115" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            <font style="font-size: 10px">
+              Замените провод питания, протестируйте в USB-салазках, или другом ПК
+            </font>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="58" y="31" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="268" cy="673" rx="69.5" ry="47.5" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(206.5 651.5)">
+      <foreignObject pointer-events="all" width="121" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 121px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Переподключите кабели IDE и питания.
+            <div>
+              Замените шлейф IDE если сомневаетесь
+            </div>
+          </div>
+        </div>
+      </foreignObject>
+      <text x="61" y="31" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <path d="M120 584v1h18.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M143.88 585l-7 3.5 1.75-3.5-1.75-3.5z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(118.5 570.5)">
+      <foreignObject pointer-events="all" width="14" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Да
+          </div>
+        </div>
+      </foreignObject>
+      <text x="7" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Да
+      </text>
+    </switch>
+    <path d="M65 624v20h18v9.63" fill="none" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <path d="M83 658.88l-3.5-7 3.5 1.75 3.5-1.75z" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(75.5 624.5)">
+      <foreignObject pointer-events="all" width="19" height="11" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+            Нет
+          </div>
+        </div>
+      </foreignObject>
+      <text x="10" y="11" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Нет
+      </text>
+    </switch>
+    <path d="M65 544l55 40-55 40-55-40z" fill="#fff" stroke="#000" stroke-miterlimit="10" pointer-events="none"/>
+    <switch transform="translate(26.5 565.5)">
+      <foreignObject pointer-events="all" width="80" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 80px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Установлен выбор кабеля(CS)?
+          </div>
+        </div>
+      </foreignObject>
+      <text x="40" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Установлен выбор кабеля(CS)?
+      </text>
+    </switch>
+    <ellipse cx="83" cy="700" rx="77.5" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(16.5 674.5)">
+      <foreignObject pointer-events="all" width="131" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 131px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Установите Master/Slave или CS. CS необходим 80-пиновый шлейф IDE или кастомный 40-пиновый кабель
+          </div>
+        </div>
+      </foreignObject>
+      <text x="66" y="34" text-anchor="middle" font-size="10" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="260" cy="855" rx="60" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(204.5 829.5)">
+      <foreignObject pointer-events="all" width="110" height="50" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 110px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Проверьте что первый пин совпадает на всех коннекторах
+          </div>
+        </div>
+      </foreignObject>
+      <text x="55" y="31" text-anchor="middle" font-size="11" font-family="Helvetica">
+        [Not supported by viewer]
+      </text>
+    </switch>
+    <ellipse cx="503" cy="495" rx="62.5" ry="40" fill="#fff" stroke="#000" pointer-events="none"/>
+    <switch transform="translate(441.5 476.5)">
+      <foreignObject pointer-events="all" width="121" height="37" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" overflow="visible">
+        <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 121px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+            Замените кабель питания, проверьте контроллеры питания
+          </div>
+        </div>
+      </foreignObject>
+      <text x="61" y="24" text-anchor="middle" font-size="11" font-family="Helvetica">
+        Замените кабель питания, проверьте контроллеры питания
+      </text>
+    </switch>
+  </g>
+</svg>
